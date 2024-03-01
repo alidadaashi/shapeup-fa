@@ -41,3 +41,18 @@ font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
 }
 
 .tk-ff-meta-serif-web-pro { font-family: "ff-meta-serif-web-pro",serif; }
+
+
+@font-face {
+    font-family: 'TitrWeb';
+    src: url('../fonts/IranianSerifWeb.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'TitrWeb';
+    src: url('../fonts/TitrWeb.woff') format('woff');
+    font-weight: bold;
+    font-style: 700;
+}
